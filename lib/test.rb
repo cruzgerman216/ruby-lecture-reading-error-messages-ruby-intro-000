@@ -5,6 +5,6 @@ sound = "squeak"
 sound
 # => "squeak"
 
-sound.upcase
+sound = sound.upcase
 # => "SQUEAK"
 puts sound
