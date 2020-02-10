@@ -1,15 +1,9 @@
-'This is data, it is a string. Strings start and end with  " '
-
-"Part of being data, or a string, is that ruby doesn't interpret it."
-
-puts 1+1
-puts "1+1"
-
-example = "The word 'example' is equal to this sentence, it's a named variable."
-
-puts example
-puts example
-puts example
-
-puts "variables are any previously undefined word that"
-puts "starts with a lowercase letter."
+# Open up IRB and follow along
+sound = "squeak"
+ 
+# We can peek at the value of sound by typing its name
+sound
+# => "squeak"
+ 
+sound.upcase
+# => "SQUEAK"
