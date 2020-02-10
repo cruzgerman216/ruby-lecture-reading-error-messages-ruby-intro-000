@@ -7,3 +7,4 @@ sound
 
 sound.upcase
 # => "SQUEAK"
+puts sound
